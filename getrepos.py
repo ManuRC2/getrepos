@@ -1,3 +1,5 @@
+#!powershell -ExecutionPolicy Bypass -Command
+
 import sys
 import requests
 
