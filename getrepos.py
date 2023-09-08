@@ -4,10 +4,10 @@ import sys
 import requests
 
 if len(sys.argv) != 2:
-    print("Wrong argument number. Type \"help\" for help.")
+    print("Wrong argument number. Type \"--help\" for help.")
     quit()
 
-if sys.argv[1] == ('help' or '-help' or '--help'):
+if sys.argv[1] == ('--help'):
     print('Use: \ngetrepos.py <Github username>')
     quit()
 
