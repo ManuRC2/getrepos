@@ -36,6 +36,7 @@ The purpouse of this script is to be built into an executable and placed in the 
 On Windows, this can be done by running the `installer` file. 
 
 This will install the project's dependencies and then create an executable file, located in the "dist" folder.
+
 The installer will ask if you want to add the directory to the PATH variable, but it does not always work due to privilege issues, so it's better to just add it manually.
 
 ## Sorry
