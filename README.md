@@ -26,7 +26,7 @@ https://github.com/ManuRC2/manurc2.github.io
  ```
  
 ## Recomendation
-The purpouse of this script is to be built into an executable and placed in the path, so it can be easily usad at all times.
+The purpouse of this script is to be built into an executable and placed in the path, so it can be easily used at all times.
 
 To do this on Windows, you can install [PyInstaller](https://pyinstaller.org/en/stable/) by running `pip install pyinstaller` and then `pyinstaller getrepos.py`. 
 
